@@ -1,0 +1,6 @@
+bs4
+requests
+pyperclip
+opencv-python
+pillow
+numpy
